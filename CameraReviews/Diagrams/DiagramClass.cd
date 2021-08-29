@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraReviews.Product.Feature">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product\Feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CameraReviews.Product.Camera.ICamera">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Product\Camera\ICamera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CameraReviews.Product.Lens.ILens">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product\Lens\ILens.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CameraReviews.Product.IProduct">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAGAAAAAA=</HashCode>
+      <FileName>Product\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CameraReviews.Review.IReview">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Review\IReview.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
